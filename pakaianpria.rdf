@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+    xmlns:rdf   ="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:db    ="http://www.projectlabsw.fake.com/namespace#"
+    xmlns:dc    ="http://purl.org/dc/elements/1.1/"
+    xmlns:foaf  ="http://xmlns.com/foaf/0.1/">
+    
+    <!-- 1 -->
+<rdf:Description rdf:about="https://shopee.co.id/HOOLIGANS-Sweater-Crewneck-Analogue-20.2-Navy-i.28717111.6851038077#">
+    <dc:title>Sweater</dc:title>
+    <db:product>Local</db:product>
+    <db:color>red</db:color>
+    <db:brand>Hooligans</db:brand>
+    <db:price>Rp159.000</db:price>
+    <foaf:img rdf:resource="https://ecs7-p.tokopedia.net/img/cache/250-square/VqbcmM/2020/12/1/170b43c2-ec55-4c69-8b1f-13f2245f63f9.jpg"/>
+</rdf:Description>
+    
+    <!-- 2 -->
+<rdf:Description rdf:about="https://shopee.co.id/adidas-TRAINING-Topi-Baseball-3-Stripes-Twill-Unisex-Hitam-FK0894-i.270510657.7541862728#">
+    <dc:title>Topi</dc:title>
+    <db:product>Local</db:product>
+    <db:color>black</db:color>
+    <db:brand>Adidas</db:brand>
+    <db:price>Rp250.000</db:price>
+    <foaf:img rdf:resource="https://ae01.alicdn.com/kf/HTB1f_3ZbjnuK1RkSmFPq6AuzFXaO/Original-New-Arrival-Adidas-Unisex-Sports-Caps-Running-Sportswear.jpg"/>
+</rdf:Description>
+    
+    <!-- 3 -->
+<rdf:Description rdf:about="https://shopee.co.id/Geoff-Max-Official-Maverick-Mid-White-Sepatu-Pria-i.33697514.8602902232#">
+    <dc:title>Celana</dc:title>
+    <db:product>Local</db:product>
+    <db:color>black</db:color>
+    <db:brand>The Executive</db:brand>
+    <db:price>Rp150.000
+</db:price>
+    <foaf:img rdf:resource="https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//102/MTA-7976504/okechuku_celana_panjang_pria_jogger_seal_x21_full08_dg7mep99.jpg"/>
+</rdf:Description>
+    
+    <!-- 4 -->
+    <rdf:Description rdf:about="https://shopee.co.id/%E3%80%90BOSTANTEN%E3%80%91Ikat-Pinggang-Pria-Sabuk-Kulit-Gesper-OtomatisKotak-Hadiah-i.25954929.2022618719#">
+    <dc:title>Tali Pinggang</dc:title>
+    <db:product>Local</db:product>
+    <db:color>Black</db:color>
+    <db:brand>Bostanten</db:brand>
+    <db:price>Rp190.180
+</db:price>
+    <foaf:img rdf:resource="https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//106/MTA-7892808/-lucky-_-lucky-_full05.jpg"/>
+</rdf:Description>
+    
+    <!-- 5 -->
+    <rdf:Description rdf:about="https://shopee.co.id/Stayhoops-Kaos-Kaki-Olahraga-Fashion-SDHX-Poise-Tech-Series-Socks-i.182576209.4708417659#">
+    <dc:title>Kaos Kaki</dc:title>
+    <db:product>Local</db:product>
+    <db:color>blue</db:color>
+    <db:brand>Stayhoops</db:brand>
+    <db:price>Rp89.250
+</db:price>
+    <foaf:img rdf:resource="https://ecs7.tokopedia.net/img/cache/700/product-1/2020/7/15/batch-upload/batch-upload_698d9012-45e4-4663-aa8b-181660bc6f76.jpg"/>
+</rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+    xmlns:rdf   ="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:db    ="http://www.projectlabsw.fake.com/namespace#"
+    xmlns:dc    ="http://purl.org/dc/elements/1.1/"
+    xmlns:foaf  ="http://xmlns.com/foaf/0.1/">
+    
+    <!-- 1 -->
+<rdf:Description rdf:about="https://shopee.co.id/Sweater-Nasa-H-M-Best-Seller-(on-model-size-M)-i.21185808.7751607133">
+    <dc:title>Sweater</dc:title>
+    <db:product>Import</db:product>
+    <db:color>orange</db:color>
+    <db:brand>HnM</db:brand>
+    <db:price>Rp142.405</db:price>
+    <foaf:img rdf:resource="https://cf.shopee.co.id/file/ef11b94106ba7ef53e6d929d2cc7951c"/>
+</rdf:Description>
+    
+    <!-- 2 -->
+<rdf:Description rdf:about="https://shopee.co.id/Ventela-Public-Low-Black-Natural-i.202735921.5008385664">
+    <dc:title>Sepatu</dc:title>
+    <db:product>Local</db:product>
+    <db:color>black natural</db:color>
+    <db:brand>Ventela</db:brand>
+    <db:price>Rp199.840</db:price>
+    <foaf:img rdf:resource="https://cf.shopee.co.id/file/c619f0ce2a926dc25c659a4a8a5ed181"/>
+</rdf:Description>
+    
+    <!-- 3 -->
+<rdf:Description rdf:about="https://shopee.co.id/Bershka-high-waist-mom-jeans-celana-original-from-bershka-i.235133895.3148686104">
+    <dc:title>Celana Jeans</dc:title>
+    <db:product>Import</db:product>
+    <db:color>black</db:color>
+    <db:brand>Bershka</db:brand>
+    <db:price>Rp420.000</db:price>
+    <foaf:img rdf:resource="https://cf.shopee.co.id/file/4c1036d5d0cb625c4e33f1f499520a9d"/>
+</rdf:Description>
+    
+    <!-- 4 -->
+    <rdf:Description rdf:about="https://shopee.co.id/JASTIP-KAOS-COLORBOX-CALIFORNIA-i.105041903.8403381119">
+    <dc:title>Kaos</dc:title>
+    <db:product>Local</db:product>
+    <db:color>white</db:color>
+    <db:brand>Colorbox</db:brand>
+    <db:price>Rp58.000</db:price>
+    <foaf:img rdf:resource="https://cf.shopee.co.id/file/98243f17b267a7201550d7be1e7e54ca"/>
+</rdf:Description>
+    
+    <!-- 5 -->
+    <rdf:Description rdf:about="https://shopee.co.id/Tas-selempang-Zara-3-in-1-Croco-Premium-Rantai-Cream-Beauty-Gum-i.67865737.3563484383">
+    <dc:title>Tas</dc:title>
+    <db:product>Import</db:product>
+    <db:color>cream</db:color>
+    <db:brand>ZARA</db:brand>
+    <db:price>Rp99.000</db:price>
+    <foaf:img rdf:resource="https://cf.shopee.co.id/file/fd54a0ed7f9141b8f5400871f42b240b"/>
+</rdf:Description>
+</rdf:RDF>

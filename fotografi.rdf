@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+    xmlns:rdf   ="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:db    ="http://www.projectlabsw.fake.com/namespace#"
+    xmlns:dc    ="http://purl.org/dc/elements/1.1/"
+    xmlns:foaf  ="http://xmlns.com/foaf/0.1/">
+    
+    <!-- 1 -->
+<rdf:Description rdf:about="https://shopee.co.id/Promo-Kamera-DSLR-CANON-1200D-Rebel-T5-18-55mm-Free-memory-dan-tas-(-Kamera-Vlog-)-i.29973701.2790019692">
+    <dc:title>Kamera DSLR</dc:title>
+    <db:product>Import</db:product>
+    <db:color>black</db:color>
+    <db:brand>Canon</db:brand>
+    <db:price>Rp2.799.999</db:price>
+    <foaf:img rdf:resource="https://cf.shopee.co.id/file/ef11b94106ba7ef53e6d929d2cc7951c"/>
+</rdf:Description>
+    
+    <!-- 2 -->
+<rdf:Description rdf:about="https://shopee.co.id/Bcare-BCam-X-5-Action-Camera-WiFi-16MP-DualScreen-UltraHD4K-Original-i.147402584.6544757797">
+    <dc:title>Action Camera</dc:title>
+    <db:product>Local</db:product>
+    <db:color>black</db:color>
+    <db:brand>Bcare</db:brand>
+    <db:price>Rp465.000</db:price>
+    <foaf:img rdf:resource="https://cf.shopee.co.id/file/7c8cb4b9c7043f2bc4276b991b342bd0"/>
+</rdf:Description>
+    
+    <!-- 3 -->
+<rdf:Description rdf:about="https://shopee.co.id/FUJIFILM-INSTAX-Mini-9-Instant-Film-Camera-i.27475020.2892583890">
+    <dc:title>Polaroid Camera</dc:title>
+    <db:product>Import</db:product>
+    <db:color>pink</db:color>
+    <db:brand>Instax</db:brand>
+    <db:price>Rp640.000</db:price>
+    <foaf:img rdf:resource="https://cf.shopee.co.id/file/dbdcb07c1d59ca8913e1135716d65037"/>
+</rdf:Description>
+    
+    <!-- 4 -->
+    <rdf:Description rdf:about="https://shopee.co.id/Kodak-Film-Camera-Analog-M35-point-shoot-i.1161835.3944183653">
+    <dc:title>Film Camera Analog</dc:title>
+    <db:product>Import</db:product>
+    <db:color>blue</db:color>
+    <db:brand>Kodak</db:brand>
+    <db:price>Rp439.000</db:price>
+    <foaf:img rdf:resource="https://cf.shopee.co.id/file/7aa01a5e861a0dd4aa3da5c544fae1a3"/>
+</rdf:Description>
+    
+    <!-- 5 -->
+    <rdf:Description rdf:about="https://shopee.co.id/Fujifilm-X-A5-XC-15-45mm-Free-SD-Card-SDHC-16GB-i.63784624.1114933634">
+    <dc:title>Mirrorless Camera</dc:title>
+    <db:product>Import</db:product>
+    <db:color>brown</db:color>
+    <db:brand>Fujifilm</db:brand>
+    <db:price>Rp6.499.000</db:price>
+    <foaf:img rdf:resource="https://cf.shopee.co.id/file/28574dca97b78d6aebc38b183c6ae552"/>
+</rdf:Description>
+</rdf:RDF>

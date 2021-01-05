@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+    xmlns:rdf   ="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:db    ="http://www.projectlabsw.fake.com/namespace#"
+    xmlns:dc    ="http://purl.org/dc/elements/1.1/"
+    xmlns:foaf  ="http://xmlns.com/foaf/0.1/">
+    
+    <!-- 1 -->
+<rdf:Description rdf:about="https://shopee.co.id/-FREE-BAG-Matras-Yoga-Yoga-Mat-Matras-Olahraga-Karpet-Yoga-Yoga-Matt-Anti-Slip-6mm-i.84662455.3558406412#">
+    <dc:title>Matras Yoga</dc:title>
+    <db:product>Local</db:product>
+    <db:color>purple</db:color>
+    <db:brand>GOTO</db:brand>
+    <db:price>Rp354.120</db:price>
+    <foaf:img rdf:resource="https://s2.bukalapak.com/img/22406952432/s-330-330/data.jpeg.webp"/>
+</rdf:Description>
+    
+    <!-- 2 -->
+<rdf:Description rdf:about="https://shopee.co.id/Pedal-Rally-Fitness-Sit-up-Peralatan-Yoga-Digunakan-Di-Rumah-i.297441625.5564041986#">
+    <dc:title>Pedal Exerciser</dc:title>
+    <db:product>Local</db:product>
+    <db:color>blue</db:color>
+    <db:brand>Ali</db:brand>
+    <db:price>Rp75.432</db:price>
+    <foaf:img rdf:resource="https://sc02.alicdn.com/kf/HTB1vI3EPpXXXXb8aXXX760XFXXXC.png"/>
+</rdf:Description>
+    
+    <!-- 3 -->
+<rdf:Description rdf:about="https://shopee.co.id/Yoga-Alat-Sit-Up-Bench-Fitness-Gym-Alat-Bantu-Olahraga-Penahan-Pegangan-Kaki-Sit-Up-Bar-Original-i.90105221.7237001134#">
+    <dc:title>Sit Up Bench</dc:title>
+    <db:product>Local</db:product> 
+    <db:color>red</db:color>
+    <db:brand>TomuMuda</db:brand>
+    <db:price>Rp39.999</db:price>
+    <foaf:img rdf:resource="https://id-test-11.slatic.net/p/cebac064ea8462608f9b4c07ea77b88c.jpg"/>
+</rdf:Description>
+    
+    <!-- 4 -->
+<rdf:Description rdf:about="https://shopee.co.id/Dumbell-Dumble-Barbel-Dumbel-2kg-Win-Star-Stamina-i.4100758.1412630806#">
+    <dc:title>Dumbell</dc:title>
+    <db:product>Local</db:product>
+    <db:color>grey</db:color>
+    <db:brand>Stamina</db:brand>
+    <db:price> Rp28.000</db:price>
+    <foaf:img rdf:resource="https://ecs7.tokopedia.net/img/cache/700/product-1/2020/2/27/batch-upload/batch-upload_886ece72-a419-4b11-9356-06228c72ca97.jpg"/>
+</rdf:Description>
+    
+    <!-- 5 -->
+<rdf:Description rdf:about="https://shopee.co.id/WAADOO-Tali-Skipping-Jumping-Rope-Skipping-Rope-Colorful-Sederhana-dan-Berkualitas-i.87210398.1671349228#">
+    <dc:title>Skipping</dc:title>
+    <db:product>Local</db:product>
+    <db:color>black</db:color>
+    <db:brand>WAADOO</db:brand>
+    <db:price>Rp15.000</db:price>
+    <foaf:img rdf:resource="https://ecs7.tokopedia.net/img/cache/700/product-1/2020/6/2/98677264/98677264_39602cfd-dfec-4967-aaea-133398fd0be2_850_850.jpg"/>
+</rdf:Description>
+</rdf:RDF>

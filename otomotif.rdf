@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+    xmlns:rdf   ="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:db    ="http://www.projectlabsw.fake.com/namespace#"
+    xmlns:dc    ="http://purl.org/dc/elements/1.1/"
+    xmlns:foaf  ="http://xmlns.com/foaf/0.1/">
+    
+    <!-- 1 -->
+<rdf:Description rdf:about="https://shopee.co.id/HONDA-BEAT-CBS-2020-SEPEDA-MOTOR-i.213225439.7712625747">
+    <dc:title>Motor</dc:title>
+    <db:product>Import</db:product>
+    <db:color>dance white</db:color>
+    <db:brand>Honda Beat</db:brand>
+    <db:price>Rp18.200.000</db:price>
+    <foaf:img rdf:resource="https://cf.shopee.co.id/file/bc49e2b9603ae9f7ff37455a3e90eb03"/>
+</rdf:Description>
+    
+    <!-- 2 -->
+<rdf:Description rdf:about="https://shopee.co.id/Cover-mobil-innova-sarung-mobil-innova-cover-inova-body-cover-toyota-inova-2007-20132014-2015-i.95279375.1794270826">
+    <dc:title>Sarung Mobil</dc:title>
+    <db:product>Import</db:product>
+    <db:color>black</db:color>
+    <db:brand>Toyota Innova</db:brand>
+    <db:price>Rp299.250</db:price>
+    <foaf:img rdf:resource="https://cf.shopee.co.id/file/09f2c9c69a302f651c3dce51a8b4b640"/>
+</rdf:Description>
+    
+    <!-- 3 -->
+<rdf:Description rdf:about="https://shopee.co.id/Helm-Bogo-Jpn-Retro-Hijau-Army-Dop-i.80930262.1422379061">
+    <dc:title>Helm</dc:title>
+    <db:product>Import</db:product>
+    <db:color>hijau army</db:color>
+    <db:brand>Bogo</db:brand>
+    <db:price>Rp175.750</db:price>
+    <foaf:img rdf:resource="https://cf.shopee.co.id/file/d7d9408f12bcfc4736ceb7cb1e6330e9"/>
+</rdf:Description>
+    
+    <!-- 4 -->
+    <rdf:Description rdf:about="https://shopee.co.id/SHELL-MOTOR-ADVANCE-ULTRA-4T-SAE-10-40-1L-(Dijamin-ASLI)-i.36591609.1948275459">
+    <dc:title>Oli</dc:title>
+    <db:product>Import</db:product>
+    <db:color>abu-abu</db:color>
+    <db:brand>Shell</db:brand>
+    <db:price>Rp90.000</db:price>
+    <foaf:img rdf:resource="https://cf.shopee.co.id/file/e407938e61c2dbc89a86c96dfc403e5e"/>
+</rdf:Description>
+    
+    <!-- 5 -->
+    <rdf:Description rdf:about="https://shopee.co.id/AKI-KERING-GS-ASTRA-ORIGINAL-GTZ5S-MOTOR-BEAT-ALL-TYPE-MIO-j-M3-GT.(DIJAMIN-ASLI)-i.32569263.1349516137">
+    <dc:title>Aki</dc:title>
+    <db:product>Import</db:product>
+    <db:color>black</db:color>
+    <db:brand>GS Astra</db:brand>
+    <db:price>Rp191.000</db:price>
+    <foaf:img rdf:resource="https://cf.shopee.co.id/file/3775b75b5b859b9fe51fa37ebb9b42a9"/>
+</rdf:Description>
+</rdf:RDF>

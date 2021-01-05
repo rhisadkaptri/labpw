@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+    xmlns:rdf   ="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:db    ="http://www.projectlabsw.fake.com/namespace#"
+    xmlns:dc    ="http://purl.org/dc/elements/1.1/"
+    xmlns:foaf  ="http://xmlns.com/foaf/0.1/">
+    
+    <!-- 1 -->
+<rdf:Description rdf:about="https://shopee.co.id/Kipas-angin-kirin-KIF-121-FL-KIF121FL-Kipas-angin-murah-kipas-duduk-i.67714878.2384501250#">
+    <dc:title>Kipas Angin</dc:title>
+    <db:product>Local</db:product>
+    <db:color>Black</db:color>
+    <db:brand>Kirin</db:brand>
+    <db:price>Rp225.000</db:price>
+    <foaf:img rdf:resource="https://sirclocdn.com/shop-luwes/products/_200417135945_76.%20KIRIN%20FLOOR%20FAN%20KIF%20201_zoom.jpg"/>
+</rdf:Description>
+    
+    <!-- 2 -->
+<rdf:Description rdf:about="https://shopee.co.id/CHANGHONG-CRF208-Kulkas-Lemari-Es-2-Pintu-i.162869882.5916067123#">
+    <dc:title>Kulkas</dc:title>
+    <db:product>Local</db:product>
+    <db:color>black</db:color>
+    <db:brand>Changhong</db:brand>
+    <db:price>Rp1.805.000</db:price>
+    <foaf:img rdf:resource="https://s1.bukalapak.com/img/65826595102/large/data.jpeg"/>
+</rdf:Description>
+    
+    <!-- 3 -->
+<rdf:Description rdf:about="https://shopee.co.id/Maspion-MPS5EFL-AC-Split-Low-Watt-0-5Pk-i.29471017.5562101289#">
+    <dc:title>AC</dc:title>
+    <db:product>Local</db:product> 
+    <db:color>white</db:color>
+    <db:brand>Maspion</db:brand>
+    <db:price>Rp2.358.000</db:price>
+    <foaf:img rdf:resource="https://ecs7.tokopedia.net/img/cache/700/product-1/2017/11/11/22983628/22983628_64351969-a693-4bbf-add3-c66901286872_682_682.jpg"/>
+</rdf:Description>
+    
+    <!-- 4 -->
+<rdf:Description rdf:about="https://shopee.co.id/KISONLI-Gaming-Speaker-2.1-Bluetooth-U-2500BT-X-Audio-With-Remote-Controlled-i.266905076.7135398226#">
+    <dc:title>Loudspeaker</dc:title>
+    <db:product>Local</db:product>
+    <db:color>Black</db:color>
+    <db:brand>Kisonli</db:brand>
+    <db:price>Rp118.750</db:price>
+    <foaf:img rdf:resource="https://ecs7.tokopedia.net/img/cache/300/product-1/2020/2/4/70893286/70893286_cbf311fc-fefb-43a3-97ad-7f7e52a1265d_778_778.jpg"/>
+</rdf:Description>
+    
+    <!-- 5 -->
+<rdf:Description rdf:about="https://shopee.co.id/LG-32-Inch-TV-LED-32LM550BPTA-i.120953039.5106591661#">
+    <dc:title>TV</dc:title>
+    <db:product>Local</db:product>
+    <db:color>black</db:color>
+    <db:brand>LG</db:brand>
+    <db:price>Rp2.188.000
+</db:price>
+    <foaf:img rdf:resource="https://www.arjunaelektronik.com/wp-content/uploads/2019/08/32LM550.jpg"/>
+</rdf:Description>
+</rdf:RDF>

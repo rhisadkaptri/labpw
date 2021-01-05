@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+    xmlns:rdf   ="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:db    ="http://www.projectlabsw.fake.com/namespace#"
+    xmlns:dc    ="http://purl.org/dc/elements/1.1/"
+    xmlns:foaf  ="http://xmlns.com/foaf/0.1/">
+    
+    <!-- 1 -->
+<rdf:Description rdf:about="https://shopee.co.id/MAINAN-KARTU-KARTU-UNO-UNO-CARD-i.43704624.6518752719">
+    <dc:title>Mainan Kartu</dc:title>
+    <db:product>Import</db:product>
+    <db:color>colorful</db:color>
+    <db:brand>UNO</db:brand>
+    <db:price>Rp6.522</db:price>
+    <foaf:img rdf:resource="https://cf.shopee.co.id/file/21853ce67229051b10a01c4ba2af4758"/>
+</rdf:Description>
+    
+    <!-- 2 -->
+<rdf:Description rdf:about="https://shopee.co.id/UKULELE-COWBOY-SOPRANO-21-BONUS-TAS-DAN-PICK-ORIGINAL-COWBOY-i.10250641.364490966">
+    <dc:title>Ukulele</dc:title>
+    <db:product>Import</db:product>
+    <db:color>ungu</db:color>
+    <db:brand>Cowboy</db:brand>
+    <db:price>Rp225.000</db:price>
+    <foaf:img rdf:resource="https://cf.shopee.co.id/file/3fa6d43206287579b5cda9f77afe4bb6"/>
+</rdf:Description>
+    
+    <!-- 3 -->
+<rdf:Description rdf:about="https://shopee.co.id/PEDIGREE%C2%AE-Makanan-Anjing-Basah-Kaleng-Rasa-Beef-1.15-Kg-i.76616442.1277422108">
+    <dc:title>Makanan Anjing</dc:title>
+    <db:product>Import</db:product>
+    <db:color>kuning</db:color>
+    <db:brand>Pedigree</db:brand>
+    <db:price>Rp58.500</db:price>
+    <foaf:img rdf:resource="https://cf.shopee.co.id/file/b1ccb5512ae5f1a44c4e94dfe31e452f"/>
+</rdf:Description>
+    
+    <!-- 4 -->
+    <rdf:Description rdf:about="https://shopee.co.id/-BS-BISA-COD-LIGHT-STICK-SPECIAL-EDITION-ARMY-BOMB-Version-3-MOTS-7-BTS-BT21-KPOP-WEVERSE-MV-i.30291023.6939547708">
+    <dc:title>Merchendise K-Pop</dc:title>
+    <db:product>Import</db:product>
+    <db:color>black</db:color>
+    <db:brand>Lightstick BTS</db:brand>
+    <db:price>Rp499.999</db:price>
+    <foaf:img rdf:resource="https://cf.shopee.co.id/file/773012d1437c54cda120470cbe8c98e2"/>
+</rdf:Description>
+    
+    <!-- 5 -->
+    <rdf:Description rdf:about="https://shopee.co.id/Hakpen-(Alat-Jarum-Rajut)-Tulip-ETIMO-RED-Crochet-Hooks-With-Cushion-Grip-Ukuran-1-10.5-PCS-i.38705077.5049880610">
+    <dc:title>Alat Rajut Kain</dc:title>
+    <db:product>Import</db:product>
+    <db:color>red</db:color>
+    <db:brand>Tulip Etimo</db:brand>
+    <db:price>Rp100.000</db:price>
+    <foaf:img rdf:resource="https://cf.shopee.co.id/file/72e0e20d56f51efaa1ac528a3d447eee"/>
+</rdf:Description>
+</rdf:RDF>

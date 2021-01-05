@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+    xmlns:rdf   ="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:db    ="http://www.projectlabsw.fake.com/namespace#"
+    xmlns:dc    ="http://purl.org/dc/elements/1.1/"
+    xmlns:foaf  ="http://xmlns.com/foaf/0.1/">
+    
+    <!-- 1 -->
+<rdf:Description rdf:about="https://shopee.co.id/Indoshare-Masker-Headloop-3ply-untuk-Hijab-Tali-Silang-Earloop-3ply-isi-50pcs-i.166664894.6025434776#">
+    <dc:title>Masker</dc:title>
+    <db:product>Local</db:product>
+    <db:color>blue</db:color>
+    <db:brand>Indoshare</db:brand>
+    <db:price>Rp32.900</db:price>
+    <foaf:img rdf:resource="https://id-test-11.slatic.net/p/aff8a9af6102f9ed6231c046233622f5.jpg"/>
+</rdf:Description>
+    
+    <!-- 2 -->
+<rdf:Description rdf:about="https://shopee.co.id/Secret-Clean-Hand-Sanitizer-Spray-100ml-3pcs-i.2315394.6438353574#">
+    <dc:title>Hand Sanitizer</dc:title>
+    <db:product>Local</db:product>
+    <db:color>green</db:color>
+    <db:brand>
+Secret Clean</db:brand>
+    <db:price>Rp47.800
+</db:price>
+    <foaf:img rdf:resource="https://s1.bukalapak.com/img/67137672412/large/data.jpeg"/>
+</rdf:Description>
+    
+    <!-- 3 -->
+<rdf:Description rdf:about="https://shopee.co.id/face-shield-nagita-kacamata-artis-anti-virus-pelindung-wajah-DEWASA-i.81830888.3940745303#">
+    <dc:title>Face Shield</dc:title>
+    <db:product>Local</db:product> 
+    <db:color>white</db:color>
+    <db:brand>Face Shield</db:brand>
+    <db:price>Rp19.999
+</db:price>
+    <foaf:img rdf:resource="https://ecs7.tokopedia.net/img/cache/700/product-1/2020/6/10/100847912/100847912_bb53e83d-8971-4462-8d7d-1fc07c459d59_630_630.jpg"/>
+</rdf:Description>
+    
+    <!-- 4 -->
+<rdf:Description rdf:about="https://shopee.co.id/Thermometer-Digital-Infrared-Gun-Termometer-Suhu-Tubuh-thermometer-Dahi-Alat-ukur-badan-LED-i.90105221.5937061986#">
+    <dc:title>Thermometer Digital</dc:title>
+    <db:product>china</db:product>
+    <db:color>white</db:color>
+    <db:brand>LY-F1</db:brand>
+    <db:price>Rp139.000
+</db:price>
+    <foaf:img rdf:resource="https://ecs7.tokopedia.net/img/cache/700/product-1/2020/7/29/108592398/108592398_0f6fbd6d-f528-4d30-bb3b-4dff75cdaa45_674_674.jpg"/>
+</rdf:Description>
+    
+    <!-- 5 -->
+<rdf:Description rdf:about="https://shopee.co.id/SARUNG-TANGAN-KARET-LATEX-NITRILE-HANDSCOON-ECER-i.85715320.5524614436#">
+    <dc:title>Sarung Tangan</dc:title>
+    <db:product>Local</db:product>
+    <db:color>white</db:color>
+    <db:brand>SENSI</db:brand>
+    <db:price>Rp4.500
+</db:price>
+    <foaf:img rdf:resource="https://medicalbogor.com/wp-content/uploads/2016/03/Sensi-Gloves-2.jpg"/>
+</rdf:Description>
+</rdf:RDF>
